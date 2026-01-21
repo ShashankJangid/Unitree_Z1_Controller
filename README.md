@@ -480,7 +480,7 @@ The Unitree Z1 can also be controlled using **ROS / ROS1**, enabling advanced ca
 
 ---
 
-## 12. Safety Guidelines
+## 13. Safety Guidelines
 
 ⚠️ **Important Safety Notes**
 
@@ -491,7 +491,7 @@ The Unitree Z1 can also be controlled using **ROS / ROS1**, enabling advanced ca
 
 ---
 
-## 10. Common Issues & Troubleshooting
+## 14. Common Issues & Troubleshooting
 
 ### Build Errors
 
@@ -511,7 +511,7 @@ The Unitree Z1 can also be controlled using **ROS / ROS1**, enabling advanced ca
 
 ---
 
-## 11. Future Enhancements
+## 15. Future Enhancements
 
 This setup can be extended to:
 
@@ -522,15 +522,15 @@ This setup can be extended to:
 
 ---
 
-## Author
+## 16. Conclusion
 
-**Shashank Jangid**
+This document provides a complete step-by-step guide to **connecting, building, and operating the Unitree Z1 using keyboard control**. It is intended to help students, developers, and researchers quickly get started and safely operate the robotic arm.
 
 ---
 
-## 12. Conclusion
+## Author
 
-This document provides a complete step-by-step guide to **connecting, building, and operating the Unitree Z1 using keyboard control**. It is intended to help students, developers, and researchers quickly get started and safely operate the robotic arm.
+**Shashank Jangid**
 
 ---
 
